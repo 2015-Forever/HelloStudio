@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Nohttp使用</string>
+
+    <string name="know">知道了</string>
+    <string name="wait_dialog_title">正在请求,请稍后...</string>
+
+    <!-- Common -->
+    <string name="request_succeed">请求成功</string>
+    <string name="request_failed">请求失败</string>
+
+    <!-- RequestMethod -->
+    <string name="request_method_not_allow">请求的方法不被服务器允许。</string>
+
+    <!-- error -->
+    <string name="error_please_check_network">请检查网络。</string>
+    <string name="error_timeout">请求超时，网络不好或服务器不稳定。</string>
+    <string name="error_not_found_server">未发现指定服务器，请切换网络后重试。</string>
+    <string name="error_url_error">URL错误。</string>
+    <string name="error_not_found_cache">没有找到缓存。</string>
+    <string name="error_system_unsupport_method">系统不支持的请求方法。</string>
+    <string name="error_parse_data">解析数据时发生错误。</string>
+    <string name="error_unknown">未知错误。</string>
+    <string name="error_response_code">服务器响应吗%1$d</string>
+    <string name="error_response_code_dex">服务器响应吗%1$d，如果服务器在这种情况也返回数据可以处理</string>
+
+    <string name="take_photo">拍照选图</string>
+    <string name="take_gallery">相册选图</string>
+</resources>
